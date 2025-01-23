@@ -1,4 +1,4 @@
-![Apple Store Logo](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)
+[![Apple Store Logo](https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/us/app/feynman-ai-note-summary-memo/id6738724586)
 
 [Download Feynman AI App on the Apple Store](https://apps.apple.com/us/app/feynman-ai-note-summary-memo/id6738724586)
 
@@ -27,3 +27,5 @@ Feynman AI is a powerful educational tool designed to enhance learning and under
 - **Versatility**: Suitable for learners, professionals, and content creators alike.
 
 Inspired by Richard Feynman's principles, the app aims to make learning straightforward yet impactful.
+
+For more information, visit [Feynman AI](https://feynman-ai.com).
